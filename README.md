@@ -1,4 +1,4 @@
-![database](https://github.com/Mustafashn/TransportationSystemDatabase/assets/101469713/069f93c6-c445-4070-9823-b0576c016937)# TransportationSystemDatabase
+TransportationSystemDatabase
 ER/EER diagrams and SQL codes about Transportation System
 
 In this project, it is requested to develop a transportation database model in which different transportation alternatives for a country (sea, air, road, mobile transportation, metro, etc.) are recorded at macro and micro levels. In this system, transportation will be provided with a unique card for each citizen. Citizens' transportation histories, searches and preferences will be recorded.
